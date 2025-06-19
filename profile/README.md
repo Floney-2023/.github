@@ -6,6 +6,7 @@
 
 - Team Blog: https://team-floney.tistory.com/
 - iOS Download: 앱스토어에서 **플로니**를 검색하세요 ([다운](https://apps.apple.com/kr/app/%ED%94%8C%EB%A1%9C%EB%8B%88-floney/id6462989500))
+- Android Download: 플레이스토어에서 **플로니**를 검색하세요 ([다운](https://play.google.com/store/apps/details?id=com.aos.floney))
 
 ![introduction-small](https://github.com/Floney-2023/.github/assets/64001680/6df4fe90-4970-4d41-aa33-639a976c5b13)
 
